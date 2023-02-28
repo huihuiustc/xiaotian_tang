@@ -1,5 +1,13 @@
-# love letter_valentine
+# love xiaotian_tang
 
-七夕节是爱情的节日，是一个以“牛郎织女”民间传说为载体，以祈福、乞巧、爱情为主题，以女性为主体的综合性节日。情人节给女朋友一个爱的告白，一个酷炫的爱意祝福，省钱又浪漫。
+给汤总最好的祝福：
+
+醒时捕光
+
+睡时捉梦
+
+遇见你
+
+三生有幸
 
 ♥️**Demo**: https://huihuiustc.github.io/xiaotian_tang/
